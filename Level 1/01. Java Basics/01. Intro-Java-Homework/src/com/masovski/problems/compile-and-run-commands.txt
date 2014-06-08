@@ -1,0 +1,7 @@
+Under Linux: 
+-----------------------
+1. cd Java-Basics-Homeworks 
+2. cd Intro-Java-Homework
+3. javac SumTwoNumbers.java
+4. java SumTwoNumbers
+-----------------------
