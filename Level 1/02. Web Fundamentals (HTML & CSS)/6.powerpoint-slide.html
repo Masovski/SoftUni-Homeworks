@@ -1,82 +1,37 @@
 <!DOCTYPE html>
 <html>
 	<head>
+		<meta charset="UTF-8"/>
 		<title>PowerPoint Slide</title>
-		<style>
-			html, body {
-				margin: 0 0;
-			}
-			#slide {
-				font-family: Calibri;
-				background-image:url(images/background.jpg);
-				background-repeat: no-repeat;
-				width: 1280px;
-				height: 720px;
-			}
-			#slide h1 {
-				font-size: 50px;
-				color: #F1C065;
-				margin-left: 20px;
-				margin-top: 0;
-			}
-			#slide h2 {
-				font-size: 44px;
-				font-weight: lighter;
-				color: #EEE;
-			}
-			#slide ul{
-				margin-left: 15px;
-				font-size: 36px;
-				color: #F3B65A;
-				list-style-type:square;
-			}
-			.orange { 
-				color: #E9C661;
-				font-weight: bold;
-			}
-			.tag-list {
-				margin-top: -20px;
-				margin-bottom: -30px;
-				margin-left: 2%;
-				color: #D2C8AC;
-				background-color: rgba(217,213,199, 0.15);
-				border-style: solid;
-				border-width: 1px;
-				border-color: #C7BFAC;
-				max-width: 91%
-				
-			}
-			.tag-list p {
-				margin: 5px 10px;
-				font-family: Consolas;
-				font-weight: bold;
-				font-size: 30px;
-			}
-		</style>
+		<link href="css/ppt-style.css" rel="stylesheet">
 	</head>
 	<body>
 		<div id="slide">
-		<br /><br />
-			<h1>Headings and Paragraphs</h1>
-			<ul>
-				<li><h2>Heading Tags: <span class="orange">&lt;h1&gt;</span> – <span class="orange">&lt;h6&gt;</span></h2></li>
-				<div class="tag-list">
-					<p>&lt;h1&gt;Heading 1&lt;/h1&gt;<br />
-					   &lt;h2&gt;Sub heading 2&lt;/h2&gt;<br />
-					   &lt;h3&gt;Sub heading 3&lt;/h3&gt;</p>
-				</div>
-				<li><h2>Paragraph Tags: <span class="orange">&lt;p&gt;</span></h2></li>
-				<div class="tag-list">
-					<p>&lt;p&gt;This is my first paragraph&lt;/&gt;<br />
-					   &lt;p&gt;This is my second paragraph&lt;/p&gt;</p>
-				</div>
-				<li><h2>Sections: <span class="orange">&lt;div&gt;</span> and <span class="orange">&lt;span&gt;</span></h2></li>
-				<div class="tag-list">
-					<p>&lt;div style="background: skyblue;"&gt;<br />
-					   &nbsp;&nbsp;&nbsp;This is div<br />
-					   &lt;/div&gt;</p>
-				</div>
-			</ul>
+			<header>
+				<br />
+				<br />
+				<h1>Headings and Paragraphs</h1>
+			</header>
+			<article>
+				<ul>
+					<li><h2>Heading Tags: <span class="orange">&lt;h1&gt;</span> - <span class="orange">&lt;h6&gt;</span></h2></li>
+					<li class="tag-list">
+						<p>&lt;h1&gt;Heading 1&lt;/h1&gt;<br />
+						   &lt;h2&gt;Sub heading 2&lt;/h2&gt;<br />
+						   &lt;h3&gt;Sub heading 3&lt;/h3&gt;</p>
+					</li>
+					<li><h2>Paragraph Tags: <span class="orange">&lt;p&gt;</span></h2></li>
+					<li class="tag-list">
+						<p>&lt;p&gt;This is my first paragraph&lt;/&gt;<br />
+						   &lt;p&gt;This is my second paragraph&lt;/p&gt;</p>
+					</li>
+					<li><h2>Sections: <span class="orange">&lt;div&gt;</span> and <span class="orange">&lt;span&gt;</span></h2></li>
+					<li class="tag-list">
+						<p>&lt;div style="background: skyblue;"&gt;<br />
+						   &nbsp;&nbsp;&nbsp;This is div<br />
+						   &lt;/div&gt;</p></li>
+				</ul>
+			</article>
 		</div>
 	</body>
 </html>
