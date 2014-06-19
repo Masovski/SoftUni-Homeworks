@@ -1,0 +1,47 @@
+table, td, th {
+	border: 1px solid #000;
+	table-layout:fixed;
+}
+table.first-table {
+	width: 500px;
+	text-align: center;
+}
+th, td {
+	height: 125px;
+}
+th button{	
+	font-size:42px;
+	vertical-align: middle;
+	width: 98%;
+}
+
+button { 
+	vertical-align: middle;
+	font-weight: bold;
+	font-size: 16px;
+	color: #1613EF;
+	height: 98%;
+}
+td button { 
+	width: 95%;
+}
+td.second-table {
+	text-align: center;
+	font-weight: bold;
+	font-size: 18px;
+	height: 50px;
+	width: 100px;
+}
+table.center {
+	margin-left:auto; 
+    margin-right:auto;
+}
+.beer-font {
+	width: 98%;
+	font-size: 33px;
+	font-weight: bold;
+	text-align: right;
+}
+.center-aligned {
+	text-align: center;
+}

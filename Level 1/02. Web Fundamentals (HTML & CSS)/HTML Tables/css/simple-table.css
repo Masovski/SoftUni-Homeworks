@@ -1,0 +1,19 @@
+html, body {
+	margin: 0;
+	padding: 0;
+}
+table {
+	width: 575px;
+}
+td.aligned{
+	padding-left: 12px;
+	font-size: 26px;
+}
+td.aligned img {
+	width: 238px;
+}
+th.aligned {
+	font-size:42px;
+	text-align:left;
+	padding-bottom: 42px;
+}

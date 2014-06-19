@@ -1,0 +1,48 @@
+table, td, th {
+	border: 1px solid #000;
+	
+	table-layout:fixed;
+}
+table.first-table {
+	width: 500px;
+}
+th, td {
+	height: 125px;
+}
+th {	
+	font-size:72px;
+	vertical-align: middle;
+}
+td {
+	font-size: 24px;
+}
+td.second-table {
+	text-align: center;
+	font-weight: bold;
+	font-size: 18px;
+	height: 50px;
+	width: 100px;
+}
+table.center {
+	margin-left:auto; 
+    margin-right:auto;
+}
+td.beer-font {
+	font-size: 42px;
+	font-weight: bold;
+}
+td.right-aligned {
+	text-align: right;
+}
+td.left-aligned { 
+	text-align: left;
+}
+td.center-aligned {
+	text-align: center;
+}
+td.bottom-aligned {
+	vertical-align: bottom;
+}
+td.top-aligned {
+	vertical-align: top;
+}

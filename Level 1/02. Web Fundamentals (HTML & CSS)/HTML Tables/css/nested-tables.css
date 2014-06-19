@@ -1,0 +1,12 @@
+table, td {
+	border: 1px solid #000;
+	font-size: 82px;
+	
+}
+img {
+	width: 200px;
+	vertical-align: middle;
+}
+td.padded {
+	padding: 12px 12px;
+}

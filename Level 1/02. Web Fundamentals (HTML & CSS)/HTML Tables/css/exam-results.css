@@ -1,0 +1,13 @@
+table, th, td {
+	border: 1px solid #000;
+	
+}
+th.heading {
+	font-size: 24px;
+}
+tfoot td.right-aligned {
+	text-align: right;
+}
+th, td {
+	padding: 3px 3px;
+}
