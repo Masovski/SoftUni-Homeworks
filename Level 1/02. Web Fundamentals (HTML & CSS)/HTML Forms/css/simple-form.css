@@ -1,0 +1,107 @@
+#auth {
+	border: 1px solid #ccc;
+	display: inline-block;
+	background-color: #eee;
+	padding-bottom: 10px;
+}
+.register {
+	float:left;
+	width: 300px;
+	height: 250px;
+}
+.reg-message {
+	color: #6C6C6C;
+	text-transform: uppercase;
+	padding-left: 18px;
+	margin: 10px 0px;	
+}
+input {
+	font-size: 0.9rem;
+	display: block;
+	border: 1px solid #ccc;
+	margin-bottom: 10px;
+	padding-bottom: 7px;
+	padding-top: 7px;
+	padding-left: 5px;
+	width: 92%;
+	float: right;
+}
+input[type=submit] {
+	float:right;
+	width: 50%;
+	margin-bottom: 0px;
+}
+input[type=checkbox]
+{
+	-ms-transform: scale(2); /* IE */
+	-moz-transform: scale(2); /* FF */
+	-webkit-transform: scale(2); /* Safari and Chrome */
+	-o-transform: scale(2); /* Opera */
+	width: 3.5%;
+	float:left;
+	margin-left: 21px;
+	margin-top: 5px;
+}
+.login {
+	float:left;
+	width: 300px;
+	height: 250px;
+	background-color: #234465;
+	padding-right: 15px;
+	margin-right: 10px;
+	margin-left: 15px;
+}
+
+.head-message {
+	color: #234465;
+	font-weight: bold;
+	padding-left: 10px;
+	margin-top: 10px;
+}
+.head-paragraph {
+	padding-left: 10px;
+	color: #888;
+}
+.login-message {
+	color: #FFF;
+	text-transform: uppercase;
+	padding-left: 18px;
+	margin: 10px 0px;
+}
+.remember {
+	color: #FFF;
+	margin-left: 5px;
+}
+.regBtn {
+	border: 1px solid #234465;
+	background: rgba(35,68,101, 0.0);
+	-webkit-transition: background .5s ease-out, color .3s ease-out;
+	-moz-transition: background .5s ease-out, color .3s ease-out;
+	-o-transition: background .5s ease-out, color .3s ease-out;
+	transition: background .5s ease-out, color .3s ease-out;
+}
+.regBtn:hover {
+	color: #FFF;
+	background: rgba(35,68,101,1);
+}
+.loginBtn {
+	width: 40% !important;
+	color: #FFF;
+	border: 2px solid #E3960D;
+	background: rgba(227,150,13, 0.0);
+	-webkit-transition: background .3s ease-out;
+	-moz-transition: background .3s ease-out;
+	-o-transition: background .3s ease-out;
+	transition: background .3s ease-out;
+}
+.loginBtn:hover {
+	background: rgba(227,150,13,1);
+}
+.forgot-password {
+	color: #FFF;
+	float:right;
+	font-size:0.9rem;
+}
+.blue-text {
+	color: #234465;
+}

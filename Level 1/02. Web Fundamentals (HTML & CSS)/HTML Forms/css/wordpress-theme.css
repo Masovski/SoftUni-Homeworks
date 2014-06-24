@@ -1,0 +1,10 @@
+img {
+	width: 20%;
+}
+form img {
+	width: 30px !important;
+	vertical-align: middle;
+}
+input {
+	height: 30px;
+}

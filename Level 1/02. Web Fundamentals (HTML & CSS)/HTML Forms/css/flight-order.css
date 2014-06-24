@@ -1,0 +1,33 @@
+
+form {
+	height: 350px;
+	background-color: #FFC0CB;
+	display: inline-block;
+
+}
+label {
+	margin-left: 10px;
+	margin-right: 10px;
+	display: inline-block;
+	vertical-align: top;
+}
+h1 {
+	text-align: center;
+}
+.city {
+	width: 200px;
+	display: inline-block;
+}
+.bigger-font {
+	font-size: 18px;
+}
+.italic {
+	font-style: italic;
+}
+.search {
+	float: right;
+	height: 40px;
+	width: 120px;
+	margin-top: 5px;
+	margin-right: 10px;
+}

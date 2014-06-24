@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8"/>
+		<title>Flight Order</title>
+		<link href="css/flight-order.css" rel="stylesheet"/>
+	</head>
+	
+	<body>
+		<form class="order-form" method="get">
+			<h1 class="italic">FLIGHT ORDER</h1>
+			<label><em>From</em><br/>
+				<select class="city bigger-font" name="from-city">
+					<option selected="selected" value="Enter a city">Enter a city</option>
+					<option value="Sofia">Sofia</option>
+					<option value="SoftUnia">SoftUnia</option>
+				</select>
+			</label>
+			
+			<label><em>To</em><br/>
+				<select class="city bigger-font" name="to-city">
+					<option selected="selected" value="Enter a city">Enter a city</option>
+					<option value="Sofia">Sofia</option>
+					<option value="SoftUnia">SoftUnia</option>
+				</select><br/>
+				<input type="checkbox"/>
+				<em>Prefer directs</em>
+			</label><br/>
+			
+			<label><em>Departure Date</em><br/>
+				<input type="date" id="departure-date">
+			</label>
+			
+			<label><em>Time interval</em><br/>
+				<input type="time">
+			</label>
+			
+			<label><br/>
+				<input type="time">
+			</label><br/>
+			
+			<label><em>Return Date</em><br/>
+				<input type="date">
+			</label>
+			
+			<label><em>Time interval</em><br/>
+				<input type="time">
+			</label>
+			
+			<label><br/>
+				<input type="time">
+			</label><br/>
+			
+			<label><em>12+</em><br/>
+				<input type="number" min="1" max="100">
+			</label>
+			
+			<label><em>2-12</em><br/>
+				<input type="number" min="1" max="100">
+			</label>
+			
+			<label><em>0-2</em><br/>
+				<input type="number" min="1" max="100">
+			</label>
+			
+			<label><em>Choose class</em><br/>
+				<select class="bigger-font city">
+					<option selected="selected" value="Choose a class">Choose a class</option>
+					<option value="Economy">Economy</option>
+					<option value="Business">Business</option>
+				</select>
+			</label><br/>
+			<button class="search" >Search</button>
+		</form>
+	</body>
+	
+</html>
