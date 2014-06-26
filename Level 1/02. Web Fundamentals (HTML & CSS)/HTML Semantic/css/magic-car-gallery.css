@@ -1,0 +1,30 @@
+#frame {
+	float: left;
+	border: 3px solid #A58505;
+	height: 250px;
+	margin-left: 50px;
+}
+#imgbox {
+	overflow: hidden;
+}
+#links {
+	float:left;
+	margin-left: 42px;
+}
+#links a {
+	font-style: oblique;
+	text-decoration: none;
+	color: #FFF;
+	font-size: 42px;
+}
+main {
+	background-color: #000;
+	height: 350px;
+	width: 638px;
+	border-radius: 10px;
+}
+main h1 {
+	text-align: center;
+	color: #F3C408;
+	font-size: 2.5em;
+}

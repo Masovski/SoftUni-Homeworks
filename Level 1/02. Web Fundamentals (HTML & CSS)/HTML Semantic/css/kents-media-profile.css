@@ -1,0 +1,56 @@
+#profile {
+	float:left;
+	background-color: #FFC0CB;
+	width:1000px;
+	border-radius: 10px;
+	padding-bottom: 10px;
+	font-size: 18px;
+	font-family: verdana, Georgia,Serif;
+}
+#user {
+	margin-left: 10px;
+	float:left;
+	display: inline-block;
+}
+#user img {
+	width: 225px;
+}
+#user p {
+	margin: 0;
+}
+#uploaded-audio {
+	float:left;
+	margin-left: 10px;
+}
+#first-audio {
+	padding-bottom: 70px;
+	background-color: #000;
+	padding-top: 30px;
+}
+#uploaded-video {
+	float:left;
+	margin-left: 10px;
+}
+audio {
+	display: block;
+	margin-bottom: 5px;
+}
+figure {
+	margin: 0px;
+}
+figcaption {
+	margin-bottom: 3px;
+}
+video {
+	width: 420px;
+	height: 100%;
+}
+h1 {
+	text-align: center;
+}
+.progress {
+	float: left;
+	height: 23px;
+	width: 204px;
+	margin-top: 3px;
+}
