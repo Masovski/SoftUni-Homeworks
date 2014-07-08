@@ -1,0 +1,65 @@
+html, body {
+	margin: 0;
+	padding: 0;
+}
+footer {
+	background: #284A6B;
+	height: 250px;
+}
+#wrapper {
+	width: 80%;
+	height: 100%;
+	margin: 0 auto;
+	padding-top: 40px;
+}
+#wrapper a {
+	color: #FFF;
+	text-decoration: none;
+}
+#wrapper a:hover {
+	color: rgba(227,150,13,1);
+}
+section {
+	display: inline-block;
+	margin-left: 30px;
+	float:left;
+}
+#buttons {
+	height: 100%;
+}
+	#buttons a {
+	margin-bottom: 10px;
+	display: block;
+	padding: 10px;
+	color: #FFF;
+	text-decoration: none;
+	border: 2px solid #E3960D;
+	background: rgba(227,150,13, 0.0);
+	-webkit-transition: background .3s ease-out;
+	-moz-transition: background .3s ease-out;
+	-o-transition: background .3s ease-out;
+	transition: background .3s ease-out;
+	}
+	#buttons a:hover {
+		background: rgba(227,150,13,1);
+		color: white;
+	}
+#about {
+	height: 100%;
+}
+h4 {
+	text-transform: uppercase;
+	color: #FF9C00;
+	margin-top:0;
+}
+nav ul {
+	list-style-type: none;
+	color: #FFF;
+	padding-left: 0;
+}
+#suls {
+	width: 300px;
+}
+.fb_iframe_widget iframe {
+	background: #FFF;
+}
