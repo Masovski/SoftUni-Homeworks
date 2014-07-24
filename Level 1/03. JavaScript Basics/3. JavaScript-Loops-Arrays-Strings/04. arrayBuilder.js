@@ -1,8 +1,9 @@
-function arrayBuilder(arr) {
-    for (var index in arr) {
-        arr[index] *= 5;
+function arrayBuilder() {
+    var arr = new Array(20);
+    for (var i = 0; i < arr.length; i++) {
+        arr[i] = i * 5;
     }
     console.log(arr.join(", "));
 }
 
-arrayBuilder([10, 20, 40, 30]);
+arrayBuilder();
