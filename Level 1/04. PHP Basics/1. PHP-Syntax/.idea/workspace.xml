@@ -50,10 +50,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="04. NonRepeatingDigits.php" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="04. NonRepeatingDigits.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/04. NonRepeatingDigits.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="9" selection-start="16" selection-end="16" vertical-scroll-proportion="-1.3076923" vertical-offset="0" max-vertical-offset="459">
+            <state line="2" column="9" selection-start="16" selection-end="16" vertical-scroll-proportion="0.076233186" vertical-offset="0" max-vertical-offset="510">
               <folding />
             </state>
           </provider>
@@ -77,10 +77,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="07. GetFormData.php" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="07. GetFormData.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/07. GetFormData.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="0" selection-start="216" selection-end="822" vertical-scroll-proportion="0.38154614" vertical-offset="0" max-vertical-offset="612">
+            <state line="9" column="0" selection-start="216" selection-end="822" vertical-scroll-proportion="-5.8846154" vertical-offset="0" max-vertical-offset="612">
               <folding />
             </state>
           </provider>
@@ -100,11 +100,11 @@
         <option value="$PROJECT_DIR$/SumTwoNumbers.php" />
         <option value="$PROJECT_DIR$/02. SumTwoNumbers.php" />
         <option value="$PROJECT_DIR$/03. DumpVariable.php" />
-        <option value="$PROJECT_DIR$/04. NonRepeatingDigits.php" />
         <option value="$PROJECT_DIR$/LazySundays.php" />
         <option value="$PROJECT_DIR$/InformationTable.php" />
         <option value="$PROJECT_DIR$/06. InformationTable.php" />
         <option value="$PROJECT_DIR$/07. GetFormData.php" />
+        <option value="$PROJECT_DIR$/04. NonRepeatingDigits.php" />
       </list>
     </option>
   </component>
@@ -114,10 +114,10 @@
     </include_path>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="590" />
-    <option name="y" value="48" />
-    <option name="width" value="1400" />
-    <option name="height" value="818" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1552" />
+    <option name="height" value="842" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -174,7 +174,7 @@
     <property name="last_opened_file_path" value="F:/xampp/php" />
     <property name="SearchEverywhereHistory" value="" />
   </component>
-  <component name="RunManager" selected="PHP Script.07. GetFormData.php">
+  <component name="RunManager" selected="PHP Script.04. NonRepeatingDigits.php">
     <configuration default="false" name="03. DumpVariable.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/03. DumpVariable.php">
       <RunnerSettings RunnerId="PhpRunner" />
       <ConfigurationWrapper RunnerId="PhpRunner" />
@@ -222,10 +222,10 @@
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="PHP Script.07. GetFormData.php" />
-        <item index="1" class="java.lang.String" itemvalue="PHP Script.06. InformationTable.php" />
-        <item index="2" class="java.lang.String" itemvalue="PHP Script.LazySundays.php" />
-        <item index="3" class="java.lang.String" itemvalue="PHP Script.04. NonRepeatingDigits.php" />
+        <item index="0" class="java.lang.String" itemvalue="PHP Script.04. NonRepeatingDigits.php" />
+        <item index="1" class="java.lang.String" itemvalue="PHP Script.07. GetFormData.php" />
+        <item index="2" class="java.lang.String" itemvalue="PHP Script.06. InformationTable.php" />
+        <item index="3" class="java.lang.String" itemvalue="PHP Script.LazySundays.php" />
         <item index="4" class="java.lang.String" itemvalue="PHP Script.03. DumpVariable.php" />
       </list>
     </recent_temporary>
@@ -257,7 +257,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="590" y="48" width="1400" height="818" extended-state="1" />
+    <frame x="-8" y="-8" width="1552" height="842" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -266,11 +266,11 @@
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="PHP-CGI Server" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.22526042" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.33145276" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32060027" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -319,13 +319,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/04. NonRepeatingDigits.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="9" selection-start="16" selection-end="16" vertical-scroll-proportion="-1.3076923" vertical-offset="0" max-vertical-offset="459">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/05. LazySundays.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="10" column="1" selection-start="240" selection-end="240" vertical-scroll-proportion="-6.5384617" vertical-offset="0" max-vertical-offset="289">
@@ -342,7 +335,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/07. GetFormData.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="0" selection-start="216" selection-end="822" vertical-scroll-proportion="0.38154614" vertical-offset="0" max-vertical-offset="612">
+        <state line="9" column="0" selection-start="216" selection-end="822" vertical-scroll-proportion="-5.8846154" vertical-offset="0" max-vertical-offset="612">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04. NonRepeatingDigits.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="9" selection-start="16" selection-end="16" vertical-scroll-proportion="0.076233186" vertical-offset="0" max-vertical-offset="510">
           <folding />
         </state>
       </provider>

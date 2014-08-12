@@ -17,6 +17,9 @@ for ($i = 102; $i <= $n; $i++) {
         }
     }
 }
-
-echo implode(', ', $arr);
+if(count($arr) > 0) {
+    echo implode(', ', $arr);
+} else {
+    echo "no";
+}
 ?>
